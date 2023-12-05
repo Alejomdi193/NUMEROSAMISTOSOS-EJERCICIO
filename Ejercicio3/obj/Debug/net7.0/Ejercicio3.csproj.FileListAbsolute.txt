@@ -1,0 +1,15 @@
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/bin/Debug/net7.0/Ejercicio3
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/bin/Debug/net7.0/Ejercicio3.deps.json
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/bin/Debug/net7.0/Ejercicio3.runtimeconfig.json
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/bin/Debug/net7.0/Ejercicio3.dll
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/bin/Debug/net7.0/Ejercicio3.pdb
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.csproj.AssemblyReference.cache
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.AssemblyInfoInputs.cache
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.AssemblyInfo.cs
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.dll
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/refint/Ejercicio3.dll
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.pdb
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/Ejercicio3.genruntimeconfig.cache
+/Users/alejandromunoz/Desktop/Ejercicio3/Ejercicio3/obj/Debug/net7.0/ref/Ejercicio3.dll
